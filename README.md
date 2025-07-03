@@ -20,13 +20,14 @@ A simple counter app built with React to demonstrate the use of components and t
 
 1. Clone the repo:
 
-```bash
+
 git clone https://github.com/luckaty/react-counter.git
 cd react-counter
 npm install
 npm start
 
     Open in your browser: http://localhost:3000
+
 
 ✍️ What I Learned
 
